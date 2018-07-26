@@ -27,7 +27,7 @@ public class ScrollArticleActivity extends AppCompatActivity {
         toolbarLayout.setTitle(getString(R.string.toolbar_title));
 
         toolbarLayout.setExpandedTitleColor(Color.WHITE);
- 
+
         toolbarLayout.setCollapsedTitleTextColor(Color.LTGRAY);
     }
 }
